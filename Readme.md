@@ -8,6 +8,8 @@ npm run dev
 
 npm install aos
 
+Live Demo: https://themed-sushi-website.netlify.app/
+
 **What is BEM?**
 
 BEM is a front-end naming method for organizing and naming CSS classes. The Block, Element, Modifier methodology is a popular naming convention for class names in HTML and CSS. It helps to write clean CSS by following some simple rules.
